@@ -1,4 +1,8 @@
 # UI/UI DESIGN
+
+# STARTING :blush: :blush:
+
+![test](gifs/Emmanuel-Edgar.png)
 ___
 
 # PIZZA RESTAURANT HOME PAGE
